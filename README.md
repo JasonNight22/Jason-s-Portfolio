@@ -1,5 +1,3 @@
 # Jason-s-Portfolio
 
-
-can you see this ? 
-code word "cookie"
+Curently all games are still in progress and I'm activlly adding new things or learning how to make things better 
